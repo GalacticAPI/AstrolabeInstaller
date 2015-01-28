@@ -1,0 +1,8 @@
+Astrolabe Installer is an Inno Setup based installer project for Astrolabe.
+
+This repository should generally be placed at the same level in the directory structure as the Astrolabe project.
+
+For example:
+
+If you place the Astrolabe project in: C:\Users\Username\Documents\Visual Studio 2013\Projects\Astrolabe
+then this project should be placed in: C:\Users\Username\Documents\Visual Studio 2013\Projects\AstrolabeInstaller
